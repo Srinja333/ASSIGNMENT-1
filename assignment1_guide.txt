@@ -15,7 +15,6 @@ FUNCTIONALITIES:-
 2.If the user name and password are valid then admin can gain access to the system.
 3.Admin can Add New Student.
 4.Admin can enter Marks of the registered Students.
-5.Admin can see all registered students.
 6.Admin can see all registered students result at same time.
 4.Student views Results by entering their Roll number.
 
